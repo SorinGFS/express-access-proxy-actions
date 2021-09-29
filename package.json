@@ -6,6 +6,9 @@
   "scripts": {
     "action": "node ."
   },
+  "bin": {
+    "express-access-proxy-actions": "index.js"
+  },
   "author": {
     "name": "SorinGFS",
     "url": "https://github.com/SorinGFS"
