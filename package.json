@@ -1,0 +1,29 @@
+{
+  "name": "express-access-proxy-actions",
+  "version": "1.0.0",
+  "description": "Express Access Proxy Actions",
+  "main": "index.js",
+  "scripts": {
+    "action": "node ."
+  },
+  "author": {
+    "name": "SorinGFS",
+    "url": "https://github.com/SorinGFS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorinGFS/express-access-proxy-actions.git"
+  },
+  "homepage": "https://github.com/SorinGFS/express-access-proxy-actions#readme",
+  "bugs": {
+    "url": "https://github.com/SorinGFS/express-access-proxy-actions/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express-access-proxy-base": "^1.0.2"
+  },
+  "devDependencies": {
+    "commander": "^8.2.0",
+    "npm": "^7.24.1"
+  }
+}
