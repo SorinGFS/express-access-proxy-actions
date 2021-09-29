@@ -190,16 +190,3 @@ ModelManifest.xml
 
 # Snippets folder
 [Ss]nippets/*
-
-# keys symlinks
-config/**/enabled/**
-!config/**/enabled/.gitkeep
-# inclusions
-config/**/includes/**
-!config/**/includes/.gitkeep
-# drafts folder
-zzz-drafts
-# temporary ignore
-lan-to-mongodb.json
-mongodb-blog.json
-router/routes/api/*
