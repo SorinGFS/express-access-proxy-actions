@@ -22,11 +22,11 @@
     "url": "https://github.com/SorinGFS/express-access-proxy-actions/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "express-access-proxy-base": "^1.0.5"
-  },
   "devDependencies": {
     "commander": "^8.2.0",
     "npm": "^7.24.1"
+  },
+  "dependencies": {
+    "express-access-proxy-base": "^1.1.0"
   }
 }
