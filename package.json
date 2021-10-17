@@ -27,6 +27,6 @@
     "npm": "^8.0.0"
   },
   "dependencies": {
-    "express-access-proxy-base": "^1.1.1"
+    "express-access-proxy-base": "^1.1.3"
   }
 }
