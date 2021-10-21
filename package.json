@@ -24,9 +24,9 @@
   "license": "MIT",
   "devDependencies": {
     "commander": "^8.2.0",
-    "npm": "^8.0.0"
+    "npm": "7.24.2"
   },
   "dependencies": {
-    "express-access-proxy-base": "^1.1.3"
+    "express-access-proxy-base": "^1.1.4"
   }
 }
