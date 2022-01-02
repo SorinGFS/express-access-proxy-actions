@@ -1,6 +1,6 @@
 {
   "name": "express-access-proxy-actions",
-  "version": "1.5.8",
+  "version": "1.5.9",
   "description": "Express Access Proxy Actions",
   "main": "index.js",
   "scripts": {
